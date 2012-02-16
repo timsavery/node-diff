@@ -4,9 +4,10 @@
   , "author"          : "Tim Savery <tim.savery@gmail.com>"
   , "description"     : "A port of John Resig's Javascript Diff Algorithm posted here: http://ejohn.org/projects/javascript-diff-algorithm"
   , "contributors"    : [{ "name": "Tim Savery", "email": "tim.savery@gmail.com"  }]
-  , "scripts"         : { "test": "vows" }
+  , "scripts"         : { "test": "vows --spec" }
   , "keywords"        : [ "diff", "string" ]
   , "devDependencies" : { "vows": "0.6.x" }
   , "license"         : "MIT"
   , "main"            : "./diff.js"
+  , "repository"      : { "type": "git", "url": "git://github.com/timsavery/node-diff.git" }
 }
