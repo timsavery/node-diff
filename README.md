@@ -34,4 +34,4 @@ This module can be used to generate diff markup for two strings.
 
 #### Author: [Tim Savery][0]
 
-[0]: http://www.chathamfinancial.com
+[0]: mailto:tim.savery@gmail.com
