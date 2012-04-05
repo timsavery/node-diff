@@ -1,6 +1,6 @@
 {
     "name"            : "node-diff"
-  , "version"         : "0.1.0"
+  , "version"         : "0.1.1"
   , "author"          : "Tim Savery <tim.savery@gmail.com>"
   , "description"     : "A port of John Resig's Javascript Diff Algorithm posted here: http://ejohn.org/projects/javascript-diff-algorithm"
   , "contributors"    : [{ "name": "Tim Savery", "email": "tim.savery@gmail.com"  }]
