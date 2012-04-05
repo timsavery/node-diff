@@ -11,7 +11,7 @@ vows.describe('Diff Tests').addBatch({
    			);
 		},
 		'as expected': function(topic) {
-			assert.equal(topic, ' The <del>red </del> brown <ins>spotted </ins> fox <del>jumped </del><ins>leaped </ins> over  the  rolling <del>log.\n</del><ins>log\n</ins>');
+			assert.equal(topic, ' The <del>red </del> brown <ins>spotted </ins> fox <del>jumped </del><ins>leaped </ins> over  the  rolling <del>log.</del><ins>log</ins>');
 		}
 	}
 }).export(module);
