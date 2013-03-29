@@ -2,6 +2,10 @@
 
 A port of John Resig's Javascript Diff Algorithm posted here: http://ejohn.org/projects/javascript-diff-algorithm
 
+## Build Status
+
+[![Build Status](https://secure.travis-ci.org/timsavery/node-diff.png?branch=master)](http://travis-ci.org/timsavery/node-diff)
+
 ## Installation
 
 ### Installing node-diff
