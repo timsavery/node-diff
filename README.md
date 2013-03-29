@@ -4,7 +4,7 @@ A port of John Resig's Javascript Diff Algorithm posted here: http://ejohn.org/p
 
 ## Build Status
 
-[![Build Status](https://secure.travis-ci.org/timsavery/node-diff.png?branch=master)](http://travis-ci.org/timsavery/node-diff)
+[![Build Status](https://travis-ci.org/timsavery/node-diff.png?branch=master)](https://travis-ci.org/timsavery/node-diff)
 
 ## Installation
 
